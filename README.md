@@ -4,7 +4,7 @@
 
 Es un lenguaje de marcado que facilita la aplicación de un formato a un texto plano.
 
-## **tipos de texto**
+## Tipos de texto
 
 este es un *texto en italica*
 
