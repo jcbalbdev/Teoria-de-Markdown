@@ -16,6 +16,7 @@ este es un ~~texto tachado~~
 
 * hola
 * hi
+* hello
 
 **listas ordenadas :**
 
